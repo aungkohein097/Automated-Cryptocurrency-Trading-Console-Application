@@ -75,10 +75,11 @@ bot.backtest_strategy("BTC/USDT", "RSI", 2023)
 git clone https://github.com/yourusername/crypto-trading-bot.git
 cd crypto-trading-bot
 
-pip install -r requirements.txt
+pip install -r requirement.txt
 
 binance_api_key = "YOUR_KEY"
 binance_secret_key = "YOUR_SECRET"
 
 python main.py
+
 
